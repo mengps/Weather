@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/spring.png</file>
+        <file>image/summer.png</file>
+        <file>image/winter.png</file>
+        <file>image/fine_moon.png</file>
+        <file>image/fine_sun.png</file>
+        <file>image/rain_moon.png</file>
+        <file>image/rain_sun.png</file>
+        <file>image/snow_moon.png</file>
+        <file>image/snow_sun.png</file>
+        <file>image/thundershower.png</file>
+        <file>image/cloudy_moon.png</file>
+        <file>image/cloudy_sun.png</file>
+        <file>image/autumn.png</file>
+        <file>src/main.qml</file>
+    </qresource>
+</RCC>
